@@ -10,8 +10,13 @@ Recyclerview has been used for the optimization of the views. With the check but
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ALaLodev/TodoList-RealtimeDB/blob/master/app/screenshots/Screenshot_1.png)
-![App Screenshot](https://github.com/ALaLodev/TodoList-RealtimeDB/blob/master/app/screenshots/Screenshot_2.png)
-![App Screenshot](https://github.com/ALaLodev/TodoList-RealtimeDB/blob/master/app/screenshots/Screenshot_4.png)
-
+<p align="center">
+  <img src="/app/screenshots/Screenshot_1.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+  <img src="/app/screenshots/Screenshot_2.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+  <img src="/screenShots/detalle2.png" alt="Detail Screen" width="15%">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+  <img src="/app/screenshots/Screenshot_4.png" alt="Detail Screen" width="15%">
+</p>
 
