@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList-Realtime</string>
+    <string name="item_menu_add_task">Add Task</string>
+    <string name="item_todo_done">done</string>
+    <string name="item_todo_delete">delete</string>
+    <string name="add_new_task">New Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_task">Add task</string>
+</resources>
